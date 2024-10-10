@@ -14,14 +14,10 @@ Before running the script, make sure you have the following installed:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/mickiemouse/Useful-Scripts.git
+    git clone https://github.com/furkan-izgi/Useful-Scripts.git
     ```
 
-2. Navigate to the `Video Merger` directory:
-
-    ```bash
-    cd videoMerger
-    ```
+2. Navigate to the `Video Merger` directory.
 
 3. Install the ffmpeg:
     Windows:
@@ -43,11 +39,8 @@ Before running the script, make sure you have the following installed:
 
 ## Usage
 
-1. Navigate to the `Video Merger` directory:
+1. Navigate to the `Video Merger` directory.
 
-    ```bash
-    cd videoMerger
-    ```
 2. Run the script:
 
     ```bash
