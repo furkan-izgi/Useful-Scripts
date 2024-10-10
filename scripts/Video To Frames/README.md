@@ -12,7 +12,7 @@ This script allows you to convert a video file into individual frames.
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/mickiemouse/Useful-Scripts.git
+    git clone https://github.com/furkan-izgi/Useful-Scripts.git
     ```
 
 2. Install the required dependencies:
