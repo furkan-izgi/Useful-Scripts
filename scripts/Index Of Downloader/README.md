@@ -7,14 +7,11 @@ This repository contains a PowerShell script called `IndexOfDownloader.ps1` that
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/mickiemouse/Useful-Scripts.git
+    git clone https://github.com/furkan-izgi/Useful-Scripts.git
     ```
 
-2. Navigate to the `Index Of Downloader` directory:
+2. Navigate to the `Index Of Downloader` directory.
 
-    ```bash
-    cd Index Of Downloader
-    ```
 3. Open a PowerShell terminal.
 
 4. Navigate to the directory where `IndexOfDownloader.ps1` is located.
